@@ -4,7 +4,7 @@ Meetings every Thursday 6pm - 8pm @ EAFIT **ROOM 7-102**
 
 ## Group 1: Learning TF
 
-will follow [EdX Deep Learning Google Tutorial] (https://classroom.udacity.com/courses/ud730). Other useful course for background or reference is [EdX Machine Learning Fundamentals UCSanDiego] (https://courses.edx.org/courses/course-v1:UCSanDiegoX+DS220x+1T2018/course/)
+will follow [EdX Deep Learning Google Tutorial](https://classroom.udacity.com/courses/ud730). Other useful course for background or reference is [EdX Machine Learning Fundamentals UCSanDiego](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DS220x+1T2018/course/)
 
 ## Group 2: Solving a problem
 
