@@ -1,6 +1,6 @@
 # TensorFlow study group at EAFIT
 
-Meetings every Thursday 6pm - 8pm @ EAFIT **ROOM 7-102**
+Meetings every **two** Thursdays 6pm - 8pm @ EAFIT **ROOM 7-102**
 
 ## Group 1: Learning TF
 
